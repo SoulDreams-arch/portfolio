@@ -1,7 +1,9 @@
 # VERDANT PROTOCOL
 
-- **Genre:** Eco Strategy
-- **Type:** Static portfolio concept
-- **Hosting:** GitHub Pages ready
+Standalone static gaming website concept. Built with HTML, CSS, vanilla JavaScript, and original SVG illustration.
 
-Open `index.html` locally or publish this folder as a static site. No build tools, package installation, backend, or external assets are required.
+## Run
+Open `index.html` locally or publish this folder as part of the parent PLAYFORM portfolio on GitHub Pages. No build tools or third-party dependencies are required.
+
+## Interactions
+This concept includes responsive navigation, animated art direction, and local demonstration interactions. It does not pretend that a game backend, account system, multiplayer service, or real server exists.
